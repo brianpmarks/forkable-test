@@ -1,3 +1,6 @@
 
 Initial test
 
+Test #2
+- included bodyParser in CI app
+
