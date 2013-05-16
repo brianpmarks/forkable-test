@@ -4,3 +4,6 @@ Initial test
 Test #2
 - included bodyParser in CI app
 
+Test #3
+- payload is in body
+
