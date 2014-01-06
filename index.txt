@@ -13,3 +13,5 @@ Test #4
 Test #5
 - committing to a branch
 
+Test #6
+- testing Trello pull request => card
