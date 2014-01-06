@@ -16,3 +16,6 @@ Test #5
 Test #6
 - testing Trello pull request => card
 - now on a new branch
+
+Test #7
+- another pr test
